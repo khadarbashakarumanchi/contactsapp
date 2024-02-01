@@ -1,0 +1,23 @@
+.sidebar {
+    width: 40px; 
+    background: linear-gradient(rgba(214 , 104 , 13 , 0.849) , rgba(255 , 0 , 140));
+
+} 
+
+.sidebar a{
+    color: white; 
+    border-left: 3px  solid  transparent; 
+
+} 
+
+.sidebar a:hover {
+    color: lightgray;
+} 
+.active {
+    color: white; 
+    border-left: 3px solid white !important;
+} 
+
+.h100 {
+    height: 100vh;
+}
